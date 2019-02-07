@@ -2,6 +2,4 @@
 
 
 
-- [스프링 시큐리티] (./spring-security.md)
-
-  
+- [스프링 시큐리티 정리](./spring-security.md)
